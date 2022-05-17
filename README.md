@@ -20,4 +20,8 @@ And then open port
 ![image](https://user-images.githubusercontent.com/54686867/168738134-36c93856-0b57-4e11-8020-eff60e8b1796.png)
 
 
-Here is a little demo:
+Here is a little demo of patterns looped:
+
+
+https://user-images.githubusercontent.com/54686867/168740000-94340154-15a3-4f25-aa7e-a5b2c4647284.mp4
+
